@@ -1,4 +1,4 @@
-
+package tukar
 package main
 
 import "fmt"
