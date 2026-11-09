@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 06 - “PERULANGAN WHILE”</h1>
-<p align="center">[Rizky Fadlurrahman ramadhan] - [109092630002]</p>
+<p align="center">[Akmal Ghani Laoda] - [109092600005]</p>
 
 ## Dasar Teori
 
